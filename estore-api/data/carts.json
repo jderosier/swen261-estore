@@ -1,0 +1,31 @@
+[ {
+  "id" : 1,
+  "contents" : [ ],
+  "totalPrice" : 0.0
+}, {
+  "id" : 2,
+  "contents" : [ {
+    "id" : 1,
+    "name" : "Vulpix",
+    "types" : [ "FIRE" ],
+    "quantity" : 1,
+    "price" : 2.0
+  } ],
+  "totalPrice" : 2.0
+}, {
+  "id" : 3,
+  "contents" : [ ],
+  "totalPrice" : 0.0
+}, {
+  "id" : 4,
+  "contents" : [ ],
+  "totalPrice" : 0.0
+}, {
+  "id" : 5,
+  "contents" : [ ],
+  "totalPrice" : 0.0
+}, {
+  "id" : 6,
+  "contents" : [ ],
+  "totalPrice" : 0.0
+} ]
